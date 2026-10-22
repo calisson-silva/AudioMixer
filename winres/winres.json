@@ -1,0 +1,66 @@
+{
+  "RT_GROUP_ICON": {
+    "#3": {
+      "0000": [
+        "../assets/icons/audiomixer-16.png",
+        "../assets/icons/audiomixer-24.png",
+        "../assets/icons/audiomixer-32.png",
+        "../assets/icons/audiomixer-48.png",
+        "../assets/icons/audiomixer-64.png",
+        "../assets/icons/audiomixer-128.png",
+        "../assets/icons/audiomixer-256.png"
+      ]
+    }
+  },
+  "RT_MANIFEST": {
+    "#1": {
+      "0409": {
+        "identity": {
+          "name": "AudioMixer",
+          "version": "1.0.0.0"
+        },
+        "description": "Espelhamento de áudio para Windows",
+        "minimum-os": "win7",
+        "execution-level": "as invoker",
+        "ui-access": false,
+        "auto-elevate": false,
+        "dpi-awareness": "per monitor v2",
+        "disable-theming": false,
+        "disable-window-filtering": false,
+        "high-resolution-scrolling-aware": false,
+        "ultra-high-resolution-scrolling-aware": false,
+        "long-path-aware": false,
+        "printer-driver-isolation": false,
+        "gdi-scaling": false,
+        "segment-heap": false,
+        "use-common-controls-v6": true
+      }
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "0000": {
+        "fixed": {
+          "file_version": "1.0.3.0",
+          "product_version": "1.0.3.0"
+        },
+        "info": {
+          "0409": {
+            "Comments": "",
+            "CompanyName": "Calisson Conceição da Silva",
+            "FileDescription": "Espelhamento de áudio para Windows",
+            "FileVersion": "1.0.3.0",
+            "InternalName": "AudioMixer",
+            "LegalCopyright": "Copyright © Calisson Conceição da Silva",
+            "LegalTrademarks": "",
+            "OriginalFilename": "AudioMixer.exe",
+            "PrivateBuild": "",
+            "ProductName": "AudioMixer",
+            "ProductVersion": "1.0.3.0",
+            "SpecialBuild": ""
+          }
+        }
+      }
+    }
+  }
+}
